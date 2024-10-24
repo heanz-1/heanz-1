@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Piero</h1>
-<h3 align="center">Un apasionado desarrollador Full Stack Junior de Perú</h3>
+<h3 align="center">Un apasionado desarrollador BackEnd Junior de Perú</h3>
 
 - 🔭 Actualmente estoy trabajando en mi **proyecto de ventas de periféricos**.
 
