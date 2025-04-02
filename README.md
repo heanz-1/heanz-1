@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en mi **proyecto de ventas de periféricos**.
 
-- 🌱 Estoy aprendiendo **Python, Astro y React**.
+- 🌱 Estoy aprendiendo **Angular**.
 
 - 👯 Estoy buscando colaborar en **proyectos de front-end y back-end**.
 
